@@ -1,5 +1,5 @@
 import Breadcrumbs from '../Layout/Breadcrumbs'
-import DiningBarImg from '../../assets/Dining&Bar/Dining_bar_banner_img.jpg'
+import DiningBarImg from '../../assets/Dining&Bar/dining_bar_banner_img.jpg'
 
 interface DiningBarBannerProps {
     onNavigate?: (page: string) => void
